@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soletrar", "Soletrar.csproj", "{008384F7-94AB-432C-9CA8-DDF0CA5594EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{008384F7-94AB-432C-9CA8-DDF0CA5594EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008384F7-94AB-432C-9CA8-DDF0CA5594EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008384F7-94AB-432C-9CA8-DDF0CA5594EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008384F7-94AB-432C-9CA8-DDF0CA5594EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35698C52-9C58-4864-9079-478D66F1B3AF}
+	EndGlobalSection
+EndGlobal
